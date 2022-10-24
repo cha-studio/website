@@ -1,7 +1,6 @@
 #detailaa_text_textarea {
     WHITE-SPACE: pre;
     WORD-WRAP: normal;
-    border: inset 4px #CCC;
     width: 100%;
     overflow: auto;
     margin: 0;
