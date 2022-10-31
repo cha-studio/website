@@ -11,8 +11,8 @@
   }
 
 img {
-    width: 400px;
-    height: 400px;
+    width: 402px;
+    height: 201px;
     margin: 0;
     padding: 0;
   }
@@ -25,5 +25,6 @@ img {
     width:400px;
     background-color: #d8a658;
     margin-bottom: 175px;
-    border: none;
+    border-radius: 10px;
+    border-color: transparent;
 }
